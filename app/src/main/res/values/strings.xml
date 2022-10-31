@@ -1,0 +1,18 @@
+<resources>
+    <string name="judul">Intent Explicit App</string>
+    <string name="addNumber">ADD NUMBER</string>
+    <string name="addText">ADD TEXT</string>
+    <string name="kalkulator">Kalkulator Ruang</string>
+    <string name="footer">Craeted By Adi Rizky Ramadhan 6304201278</string>
+    <string name="number">0</string>
+    <string name="add">ADD</string>
+    <string name="app_name"></string>
+    <string name="hallo">HALLO</string>
+    <string name="submit">SUBMIT</string>
+    <string name="result" />
+    <string name="KlkRuang">Kalkutator Kubus</string>
+    <string name="panjang">Panjang Sisi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Volume Kubus</string>
+    <string name="hasil2">Luas Selimut Kubus</string>
+</resources>
